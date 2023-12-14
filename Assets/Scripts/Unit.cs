@@ -5,6 +5,8 @@ using UnityEngine;
 
 public class Unit : MonoBehaviour
 {
+    public string unitName;
+    public int unitLevel;
     public int MaxHealth = 200;
     public int currentHealth;
     public int MaxSP = 100;
