@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 5fc2c6b8b63b9274ea4d779e54770157
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Neuton
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3cf305fc9028b304a9d25ce2f44faf0b, type: 3}
+  - {fileID: 12800000, guid: fa774db52ad76ff468dacfb19f2299b7, type: 3}
+  - {fileID: 12800000, guid: ebca07287e1416f40b797254de9146f2, type: 3}
+  - {fileID: 12800000, guid: 53246e14a209c2141bdba022db080f8e, type: 3}
+  - {fileID: 12800000, guid: 7307be522d84cfd429ba3f746a105e39, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
